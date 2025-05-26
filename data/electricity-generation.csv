@@ -1,0 +1,1385 @@
+Entity,Year,Electricity generation - TWh
+Afghanistan,2000,0.48
+Afghanistan,2001,0.69
+Afghanistan,2002,0.71
+Afghanistan,2003,0.91
+Afghanistan,2004,0.79
+Afghanistan,2005,0.82
+Afghanistan,2006,0.9
+Afghanistan,2007,1.01
+Afghanistan,2008,0.78
+Afghanistan,2009,0.89
+Afghanistan,2010,0.88
+Afghanistan,2011,0.77
+Afghanistan,2012,0.88
+Afghanistan,2013,1.11
+Afghanistan,2014,1.16
+Afghanistan,2015,1.18
+Afghanistan,2016,1.21
+Afghanistan,2017,1.26
+Afghanistan,2018,1.17
+Afghanistan,2019,1.46
+Afghanistan,2020,1.18
+Afghanistan,2021,1.06
+Afghanistan,2022,0.96
+Afghanistan,2023,0.97
+Africa,1985,258.98584
+Africa,1986,270.10965
+Africa,1987,280.25952
+Africa,1988,295.29562
+Africa,1989,306.64783
+Africa,1990,318.7762
+Africa,1991,324.84778
+Africa,1992,327.87134
+Africa,1993,339.07373
+Africa,1994,351.33392
+Africa,1995,362.69223
+Africa,1996,382.14014
+Africa,1997,400.87845
+Africa,1998,406.45874
+Africa,1999,418.59232
+Africa,2000,441.08
+Africa,2001,459.46002
+Africa,2002,487.69
+Africa,2003,509.13998
+Africa,2004,540.14
+Africa,2005,560.75
+Africa,2006,586.8
+Africa,2007,610.23
+Africa,2008,621.69
+Africa,2009,624.58
+Africa,2010,672.39
+Africa,2011,688.71
+Africa,2012,725.63
+Africa,2013,741.23004
+Africa,2014,768.18
+Africa,2015,790.51996
+Africa,2016,806.2
+Africa,2017,826.05
+Africa,2018,856.01
+Africa,2019,875.68
+Africa,2020,859.81
+Africa,2021,904.61
+Africa,2022,923.38
+Africa,2023,919.22003
+Africa (EI),1985,258.98584
+Africa (EI),1986,270.10968
+Africa (EI),1987,280.25952
+Africa (EI),1988,295.29562
+Africa (EI),1989,306.64783
+Africa (EI),1990,318.7762
+Africa (EI),1991,324.8478
+Africa (EI),1992,327.87134
+Africa (EI),1993,339.07373
+Africa (EI),1994,351.33392
+Africa (EI),1995,362.6922
+Africa (EI),1996,382.14014
+Africa (EI),1997,400.87845
+Africa (EI),1998,406.45874
+Africa (EI),1999,418.59232
+Africa (EI),2000,440.23584
+Africa (EI),2001,459.1753
+Africa (EI),2002,487.6488
+Africa (EI),2003,509.11337
+Africa (EI),2004,540.8562
+Africa (EI),2005,560.531
+Africa (EI),2006,586.2569
+Africa (EI),2007,610.7926
+Africa (EI),2008,623.6358
+Africa (EI),2009,630.2443
+Africa (EI),2010,672.8744
+Africa (EI),2011,688.3321
+Africa (EI),2012,722.69727
+Africa (EI),2013,745.4621
+Africa (EI),2014,770.483
+Africa (EI),2015,790.4474
+Africa (EI),2016,799.60583
+Africa (EI),2017,826.59503
+Africa (EI),2018,849.7033
+Africa (EI),2019,869.20764
+Africa (EI),2020,852.0534
+Africa (EI),2021,891.1426
+Africa (EI),2022,902.7426
+Africa (EI),2023,902.9266
+Africa (Ember),2000,441.08
+Africa (Ember),2001,459.46
+Africa (Ember),2002,487.69
+Africa (Ember),2003,509.14
+Africa (Ember),2004,540.14
+Africa (Ember),2005,560.75
+Africa (Ember),2006,586.8
+Africa (Ember),2007,610.23
+Africa (Ember),2008,621.69
+Africa (Ember),2009,624.58
+Africa (Ember),2010,672.48
+Africa (Ember),2011,688.8
+Africa (Ember),2012,725.72
+Africa (Ember),2013,741.32
+Africa (Ember),2014,768.27
+Africa (Ember),2015,790.61
+Africa (Ember),2016,806.29
+Africa (Ember),2017,826.14
+Africa (Ember),2018,856.1
+Africa (Ember),2019,875.77
+Africa (Ember),2020,859.9
+Africa (Ember),2021,904.7
+Africa (Ember),2022,923.47
+Africa (Ember),2023,936.41
+Africa (Ember),2024,972.96
+Albania,2000,4.73
+Albania,2001,3.69
+Albania,2002,3.71
+Albania,2003,5.23
+Albania,2004,5.55
+Albania,2005,5.39
+Albania,2006,5.04
+Albania,2007,2.83
+Albania,2008,3.76
+Albania,2009,5.2
+Albania,2010,7.57
+Albania,2011,4.19
+Albania,2012,4.72
+Albania,2013,6.96
+Albania,2014,4.72
+Albania,2015,5.89
+Albania,2016,7.78
+Albania,2017,4.53
+Albania,2018,8.55
+Albania,2019,5.2
+Albania,2020,5.31
+Albania,2021,8.94
+Albania,2022,6.97
+Albania,2023,9.01
+Algeria,1985,12.274
+Algeria,1986,12.981
+Algeria,1987,12.722
+Algeria,1988,13.966
+Algeria,1989,15.324
+Algeria,1990,16.104
+Algeria,1991,17.345
+Algeria,1992,18.286
+Algeria,1993,19.414
+Algeria,1994,19.883
+Algeria,1995,19.715
+Algeria,1996,20.654
+Algeria,1997,21.497
+Algeria,1998,23.262
+Algeria,1999,24.757
+Algeria,2000,25.4
+Algeria,2001,26.62
+Algeria,2002,27.65
+Algeria,2003,29.57
+Algeria,2004,31.25
+Algeria,2005,33.91
+Algeria,2006,35.23
+Algeria,2007,37.19
+Algeria,2008,40.23
+Algeria,2009,38.5
+Algeria,2010,45.73
+Algeria,2011,51.22
+Algeria,2012,57.4
+Algeria,2013,59.89
+Algeria,2014,64.27
+Algeria,2015,68.84
+Algeria,2016,71.04
+Algeria,2017,76.07
+Algeria,2018,76.75
+Algeria,2019,81.61
+Algeria,2020,79.37
+Algeria,2021,85.6
+Algeria,2022,91.47
+Algeria,2023,96.3
+Angola,2000,1.44
+Angola,2001,1.64
+Angola,2002,1.76
+Angola,2003,1.99
+Angola,2004,2.24
+Angola,2005,2.63
+Angola,2006,2.98
+Angola,2007,3.24
+Angola,2008,4.05
+Angola,2009,4.91
+Angola,2010,5.46
+Angola,2011,5.66
+Angola,2012,7.72
+Angola,2013,8.15
+Angola,2014,9.56
+Angola,2015,9.78
+Angola,2016,10.98
+Angola,2017,10.81
+Angola,2018,13.14
+Angola,2019,15.82
+Angola,2020,16.81
+Angola,2021,16.85
+Angola,2022,17.31
+Angola,2023,17.94
+Antigua and Barbuda,2000,0.15
+Antigua and Barbuda,2001,0.17
+Antigua and Barbuda,2002,0.19
+Antigua and Barbuda,2003,0.21
+Antigua and Barbuda,2004,0.22
+Antigua and Barbuda,2005,0.24
+Antigua and Barbuda,2006,0.26
+Antigua and Barbuda,2007,0.29
+Antigua and Barbuda,2008,0.3
+Antigua and Barbuda,2009,0.33
+Antigua and Barbuda,2010,0.33
+Antigua and Barbuda,2011,0.33
+Antigua and Barbuda,2012,0.33
+Antigua and Barbuda,2013,0.33
+Antigua and Barbuda,2014,0.34
+Antigua and Barbuda,2015,0.35
+Antigua and Barbuda,2016,0.34
+Antigua and Barbuda,2017,0.35
+Antigua and Barbuda,2018,0.36
+Antigua and Barbuda,2019,0.36
+Antigua and Barbuda,2020,0.35
+Antigua and Barbuda,2021,0.35
+Antigua and Barbuda,2022,0.36
+Antigua and Barbuda,2023,0.36
+Argentina,1985,45.303726
+Argentina,1986,49.022194
+Argentina,1987,52.11528
+Argentina,1988,52.49952
+Argentina,1989,50.862812
+Argentina,1990,51.004894
+Argentina,1991,53.85427
+Argentina,1992,56.107098
+Argentina,1993,61.86878
+Argentina,1994,65.62203
+Argentina,1995,67.16925
+Argentina,1996,69.75982
+Argentina,1997,72.46247
+Argentina,1998,74.169556
+Argentina,1999,80.744736
+Argentina,2000,88.98
+Argentina,2001,90.14
+Argentina,2002,84.59
+Argentina,2003,92.07
+Argentina,2004,100.26
+Argentina,2005,105.75
+Argentina,2006,113.43
+Argentina,2007,113.52
+Argentina,2008,121.91
+Argentina,2009,122.32
+Argentina,2010,126
+Argentina,2011,129.49
+Argentina,2012,136.02
+Argentina,2013,139.45
+Argentina,2014,138.54
+Argentina,2015,145.42
+Argentina,2016,147.18
+Argentina,2017,145.61
+Argentina,2018,146.78
+Argentina,2019,139.53
+Argentina,2020,144.64
+Argentina,2021,153.15
+Argentina,2022,145.62
+Argentina,2023,146.43
+Argentina,2024,147.18
+Armenia,2000,5.78
+Armenia,2001,5.74
+Armenia,2002,5.31
+Armenia,2003,5.3
+Armenia,2004,5.79
+Armenia,2005,6.08
+Armenia,2006,5.71
+Armenia,2007,5.67
+Armenia,2008,5.9
+Armenia,2009,5.44
+Armenia,2010,6.27
+Armenia,2011,7.21
+Armenia,2012,7.82
+Armenia,2013,7.49
+Armenia,2014,7.53
+Armenia,2015,7.55
+Armenia,2016,7.1
+Armenia,2017,7.53
+Armenia,2018,7.59
+Armenia,2019,7.49
+Armenia,2020,7.64
+Armenia,2021,7.72
+Armenia,2022,9.88
+Armenia,2023,8.65
+Armenia,2024,8.84
+Aruba,2000,0.78
+Aruba,2001,0.81
+Aruba,2002,0.82
+Aruba,2003,0.84
+Aruba,2004,0.87
+Aruba,2005,0.91
+Aruba,2006,0.91
+Aruba,2007,0.94
+Aruba,2008,0.91
+Aruba,2009,0.95
+Aruba,2010,0.94
+Aruba,2011,0.93
+Aruba,2012,0.92
+Aruba,2013,0.94
+Aruba,2014,0.94
+Aruba,2015,0.97
+Aruba,2016,0.94
+Aruba,2017,0.97
+Aruba,2018,0.97
+Aruba,2019,0.99
+Aruba,2020,0.99
+Aruba,2021,1
+Aruba,2022,1
+Asia,1985,2009.0216
+Asia,1986,2123.0615
+Asia,1987,2302.9958
+Asia,1988,2468.2258
+Asia,1989,2643.9805
+Asia,1990,2838.9907
+Asia,1991,2989.6262
+Asia,1992,3158.9026
+Asia,1993,3318.475
+Asia,1994,3576.5283
+Asia,1995,3807.9717
+Asia,1996,3997.2683
+Asia,1997,4181.797
+Asia,1998,4313.232
+Asia,1999,4519.846
+Asia,2000,4806.49
+Asia,2001,5017.59
+Asia,2002,5346.54
+Asia,2003,5738.94
+Asia,2004,6247.93
+Asia,2005,6719.47
+Asia,2006,7255.16
+Asia,2007,7864.87
+Asia,2008,8190.39
+Asia,2009,8450.45
+Asia,2010,9280.22
+Asia,2011,9942.15
+Asia,2012,10417.19
+Asia,2013,11000.89
+Asia,2014,11611.9
+Asia,2015,11774.17
+Asia,2016,12366.44
+Asia,2017,13110.79
+Asia,2018,13898.41
+Asia,2019,14339.7705
+Asia,2020,14562.97
+Asia,2021,15671.91
+Asia,2022,16272.31
+Asia,2023,17004.83
+Benin,2000,0.08
+Benin,2001,0.06
+Benin,2002,0.06
+Benin,2003,0.08
+Benin,2004,0.08
+Benin,2005,0.11
+Benin,2006,0.15
+Benin,2007,0.22
+Benin,2008,0.23
+Benin,2009,0.13
+Benin,2010,0.11
+Benin,2011,0.1
+Benin,2012,0.05
+Benin,2013,0.13
+Benin,2014,0.34
+Benin,2015,0.32
+Benin,2016,0.27
+Benin,2017,0.32
+Benin,2018,0.19
+Benin,2019,0.54
+Benin,2020,0.99
+Benin,2021,1.13
+Benin,2022,0.99
+Benin,2023,1
+Brazil,1985,193.68224
+Brazil,1986,202.1289
+Brazil,1987,203.33147
+Brazil,1988,214.95285
+Brazil,1989,221.73901
+Brazil,1990,222.82011
+Brazil,1991,234.3763
+Brazil,1992,241.76195
+Brazil,1993,252.00313
+Brazil,1994,260.04062
+Brazil,1995,275.60144
+Brazil,1996,291.24554
+Brazil,1997,307.98077
+Brazil,1998,321.74863
+Brazil,1999,334.72623
+Brazil,2000,348.93
+Brazil,2001,328.55
+Brazil,2002,345.72
+Brazil,2003,364.39
+Brazil,2004,387.49
+Brazil,2005,403.07
+Brazil,2006,419.45
+Brazil,2007,445.15
+Brazil,2008,463.18
+Brazil,2009,466.17
+Brazil,2010,515.8
+Brazil,2011,531.76
+Brazil,2012,552.5
+Brazil,2013,570.83
+Brazil,2014,590.55
+Brazil,2015,581.22
+Brazil,2016,578.89
+Brazil,2017,589.32
+Brazil,2018,601.39
+Brazil,2019,633.33
+Brazil,2020,628.76
+Brazil,2021,656.11
+Brazil,2022,677.17
+Brazil,2023,709.99
+Brazil,2024,745.26
+Burkina Faso,2000,0.39
+Burkina Faso,2001,0.36
+Burkina Faso,2002,0.36
+Burkina Faso,2003,0.45
+Burkina Faso,2004,0.47
+Burkina Faso,2005,0.52
+Burkina Faso,2006,0.55
+Burkina Faso,2007,0.61
+Burkina Faso,2008,0.61
+Burkina Faso,2009,0.7
+Burkina Faso,2010,0.58
+Burkina Faso,2011,0.54
+Burkina Faso,2012,0.64
+Burkina Faso,2013,0.75
+Burkina Faso,2014,0.88
+Burkina Faso,2015,1.01
+Burkina Faso,2016,0.99
+Burkina Faso,2017,1.12
+Burkina Faso,2018,1.87
+Burkina Faso,2019,1.6
+Burkina Faso,2020,1.59
+Burkina Faso,2021,1.71
+Burkina Faso,2022,1.69
+Burkina Faso,2023,1.73
+Cameroon,2000,3.45
+Cameroon,2001,3.51
+Cameroon,2002,3.27
+Cameroon,2003,3.65
+Cameroon,2004,4.07
+Cameroon,2005,3.96
+Cameroon,2006,5.06
+Cameroon,2007,5.21
+Cameroon,2008,5.64
+Cameroon,2009,5.74
+Cameroon,2010,5.86
+Cameroon,2011,5.88
+Cameroon,2012,5.43
+Cameroon,2013,6.34
+Cameroon,2014,6.89
+Cameroon,2015,7.96
+Cameroon,2016,7.11
+Cameroon,2017,8.05
+Cameroon,2018,8.54
+Cameroon,2019,8.28
+Cameroon,2020,8.8
+Cameroon,2021,8.41
+Cameroon,2022,8.15
+Cameroon,2023,8.33
+Cape Verde,2000,0.15
+Cape Verde,2001,0.17
+Cape Verde,2002,0.19
+Cape Verde,2003,0.19
+Cape Verde,2004,0.22
+Cape Verde,2005,0.24
+Cape Verde,2006,0.25
+Cape Verde,2007,0.27
+Cape Verde,2008,0.29
+Cape Verde,2009,0.31
+Cape Verde,2010,0.34
+Cape Verde,2011,0.37
+Cape Verde,2012,0.38
+Cape Verde,2013,0.41
+Cape Verde,2014,0.43
+Cape Verde,2015,0.43
+Cape Verde,2016,0.45
+Cape Verde,2017,0.43
+Cape Verde,2018,0.43
+Cape Verde,2019,0.44
+Cape Verde,2020,0.42
+Cape Verde,2021,0.43
+Cape Verde,2022,0.5
+Chad,2000,0.09
+Chad,2001,0.1
+Chad,2002,0.1
+Chad,2003,0.11
+Chad,2004,0.12
+Chad,2005,0.12
+Chad,2006,0.12
+Chad,2007,0.12
+Chad,2008,0.14
+Chad,2009,0.17
+Chad,2010,0.19
+Chad,2011,0.2
+Chad,2012,0.24
+Chad,2013,0.28
+Chad,2014,0.3
+Chad,2015,0.3
+Chad,2016,0.31
+Chad,2017,0.32
+Chad,2018,0.34
+Chad,2019,0.35
+Chad,2020,0.35
+Chad,2021,0.43
+Chad,2022,0.39
+Congo,2000,0.29
+Congo,2001,0.33
+Congo,2002,0.39
+Congo,2003,0.4
+Congo,2004,0.4
+Congo,2005,0.43
+Congo,2006,0.45
+Congo,2007,0.4
+Congo,2008,0.46
+Congo,2009,0.54
+Congo,2010,0.78
+Congo,2011,1.28
+Congo,2012,1.69
+Congo,2013,1.7
+Congo,2014,1.73
+Congo,2015,2.76
+Congo,2016,2.94
+Congo,2017,2.95
+Congo,2018,3.05
+Congo,2019,3.86
+Congo,2020,3.98
+Congo,2021,4.08
+Congo,2022,4.92
+Congo,2023,5.17
+Cote d'Ivoire,2000,4.8
+Cote d'Ivoire,2001,4.88
+Cote d'Ivoire,2002,5.29
+Cote d'Ivoire,2003,5.08
+Cote d'Ivoire,2004,5.5
+Cote d'Ivoire,2005,5.67
+Cote d'Ivoire,2006,5.64
+Cote d'Ivoire,2007,5.62
+Cote d'Ivoire,2008,5.79
+Cote d'Ivoire,2009,5.85
+Cote d'Ivoire,2010,5.95
+Cote d'Ivoire,2011,6.08
+Cote d'Ivoire,2012,7
+Cote d'Ivoire,2013,7.63
+Cote d'Ivoire,2014,8.27
+Cote d'Ivoire,2015,8.7
+Cote d'Ivoire,2016,10.23
+Cote d'Ivoire,2017,10.12
+Cote d'Ivoire,2018,10.04
+Cote d'Ivoire,2019,10.66
+Cote d'Ivoire,2020,11.26
+Cote d'Ivoire,2021,11.35
+Cote d'Ivoire,2022,12.61
+Cote d'Ivoire,2023,11.13
+Eastern Africa (EI),1985,24.10058
+Eastern Africa (EI),1986,24.67527
+Eastern Africa (EI),1987,24.880257
+Eastern Africa (EI),1988,27.227615
+Eastern Africa (EI),1989,26.428568
+Eastern Africa (EI),1990,29.951393
+Eastern Africa (EI),1991,31.357876
+Eastern Africa (EI),1992,28.714314
+Eastern Africa (EI),1993,30.262957
+Eastern Africa (EI),1994,30.694925
+Eastern Africa (EI),1995,31.665777
+Eastern Africa (EI),1996,31.40058
+Eastern Africa (EI),1997,33.41451
+Eastern Africa (EI),1998,38.80012
+Eastern Africa (EI),1999,41.017494
+Eastern Africa (EI),2000,43.691193
+Eastern Africa (EI),2001,48.794277
+Eastern Africa (EI),2002,51.388405
+Eastern Africa (EI),2003,51.349277
+Eastern Africa (EI),2004,55.226494
+Eastern Africa (EI),2005,58.378994
+Eastern Africa (EI),2006,60.444397
+Eastern Africa (EI),2007,64.157234
+Eastern Africa (EI),2008,65.112434
+Eastern Africa (EI),2009,68.85992
+Eastern Africa (EI),2010,74.167786
+Eastern Africa (EI),2011,78.33893
+Eastern Africa (EI),2012,81.83166
+Eastern Africa (EI),2013,86.9567
+Eastern Africa (EI),2014,93.519646
+Eastern Africa (EI),2015,98.5943
+Eastern Africa (EI),2016,97.065384
+Eastern Africa (EI),2017,103.417496
+Eastern Africa (EI),2018,108.595924
+Eastern Africa (EI),2019,110.65813
+Eastern Africa (EI),2020,110.71325
+Eastern Africa (EI),2021,117.073685
+Eastern Africa (EI),2022,123.77035
+Eastern Africa (EI),2023,127.9119
+Egypt,1985,30.2535
+Egypt,1986,32.461
+Egypt,1987,35.6545
+Egypt,1988,38.7125
+Egypt,1989,40.6145
+Egypt,1990,41.9525
+Egypt,1991,43.276
+Egypt,1992,44.987
+Egypt,1993,46.737
+Egypt,1994,48.55
+Egypt,1995,50.652
+Egypt,1996,53.57
+Egypt,1997,56.784
+Egypt,1998,60.697
+Egypt,1999,65.7305
+Egypt,2000,73.32
+Egypt,2001,80.71
+Egypt,2002,86.23
+Egypt,2003,92.19
+Egypt,2004,98.25
+Egypt,2005,104.94
+Egypt,2006,111.66
+Egypt,2007,119.86
+Egypt,2008,128.8
+Egypt,2009,134.27
+Egypt,2010,144.43
+Egypt,2011,149.56
+Egypt,2012,162.84
+Egypt,2013,165.08
+Egypt,2014,171.24
+Egypt,2015,181.83
+Egypt,2016,188.19
+Egypt,2017,193.21
+Egypt,2018,199.39
+Egypt,2019,200.57
+Egypt,2020,198.61
+Egypt,2021,209.66
+Egypt,2022,216.71
+Egypt,2023,220.14
+Egypt,2024,235.41
+Equatorial Guinea,2000,0.05
+Equatorial Guinea,2001,0.06
+Equatorial Guinea,2002,0.07
+Equatorial Guinea,2003,0.07
+Equatorial Guinea,2004,0.09
+Equatorial Guinea,2005,0.1
+Equatorial Guinea,2006,0.11
+Equatorial Guinea,2007,0.13
+Equatorial Guinea,2008,0.2
+Equatorial Guinea,2009,0.22
+Equatorial Guinea,2010,0.22
+Equatorial Guinea,2011,0.3
+Equatorial Guinea,2012,0.54
+Equatorial Guinea,2013,0.85
+Equatorial Guinea,2014,1.09
+Equatorial Guinea,2015,1.3
+Equatorial Guinea,2016,1.4
+Equatorial Guinea,2017,1.34
+Equatorial Guinea,2018,1.35
+Equatorial Guinea,2019,1.4
+Equatorial Guinea,2020,1.41
+Equatorial Guinea,2021,1.43
+Equatorial Guinea,2022,1.51
+Equatorial Guinea,2023,1.57
+Gabon,2000,1.31
+Gabon,2001,1.4
+Gabon,2002,1.47
+Gabon,2003,1.53
+Gabon,2004,1.53
+Gabon,2005,1.57
+Gabon,2006,1.66
+Gabon,2007,1.73
+Gabon,2008,1.81
+Gabon,2009,1.83
+Gabon,2010,1.93
+Gabon,2011,2.03
+Gabon,2012,2.16
+Gabon,2013,2.09
+Gabon,2014,1.99
+Gabon,2015,2.12
+Gabon,2016,2.19
+Gabon,2017,2.24
+Gabon,2018,2.78
+Gabon,2019,2.84
+Gabon,2020,2.93
+Gabon,2021,2.96
+Gabon,2022,3.19
+Gabon,2023,3.19
+Gambia,2000,0.13
+Gambia,2001,0.15
+Gambia,2002,0.15
+Gambia,2003,0.17
+Gambia,2004,0.19
+Gambia,2005,0.2
+Gambia,2006,0.22
+Gambia,2007,0.23
+Gambia,2008,0.24
+Gambia,2009,0.24
+Gambia,2010,0.25
+Gambia,2011,0.25
+Gambia,2012,0.25
+Gambia,2013,0.25
+Gambia,2014,0.25
+Gambia,2015,0.28
+Gambia,2016,0.3
+Gambia,2017,0.31
+Gambia,2018,0.39
+Gambia,2019,0.46
+Gambia,2020,0.48
+Gambia,2021,0.5
+Gambia,2022,0.51
+Gambia,2023,0.51
+Ghana,2000,7.17
+Ghana,2001,7.81
+Ghana,2002,7.27
+Ghana,2003,5.88
+Ghana,2004,6
+Ghana,2005,6.74
+Ghana,2006,8.39
+Ghana,2007,6.96
+Ghana,2008,8.32
+Ghana,2009,8.94
+Ghana,2010,10.12
+Ghana,2011,11.31
+Ghana,2012,12.15
+Ghana,2013,12.99
+Ghana,2014,13.08
+Ghana,2015,11.64
+Ghana,2016,13.17
+Ghana,2017,13.3
+Ghana,2018,14.91
+Ghana,2019,17.3
+Ghana,2020,19.73
+Ghana,2021,22.08
+Ghana,2022,23.22
+Ghana,2023,24.29
+Guinea,2000,0.81
+Guinea,2001,0.96
+Guinea,2002,1.01
+Guinea,2003,0.86
+Guinea,2004,0.9
+Guinea,2005,0.79
+Guinea,2006,0.73
+Guinea,2007,0.78
+Guinea,2008,0.81
+Guinea,2009,0.8
+Guinea,2010,0.63
+Guinea,2011,0.55
+Guinea,2012,0.73
+Guinea,2013,0.65
+Guinea,2014,0.71
+Guinea,2015,1.14
+Guinea,2016,1.61
+Guinea,2017,1.77
+Guinea,2018,1.94
+Guinea,2019,2.05
+Guinea,2020,2.48
+Guinea,2021,3.64
+Guinea,2022,4
+Guinea,2023,4.05
+Guinea-Bissau,2000,0.03
+Guinea-Bissau,2001,0.02
+Guinea-Bissau,2002,0.02
+Guinea-Bissau,2003,0.02
+Guinea-Bissau,2004,0.03
+Guinea-Bissau,2005,0.03
+Guinea-Bissau,2006,0.03
+Guinea-Bissau,2007,0.03
+Guinea-Bissau,2008,0.03
+Guinea-Bissau,2009,0.03
+Guinea-Bissau,2010,0.03
+Guinea-Bissau,2011,0.03
+Guinea-Bissau,2012,0.03
+Guinea-Bissau,2013,0.02
+Guinea-Bissau,2014,0.03
+Guinea-Bissau,2015,0.06
+Guinea-Bissau,2016,0.08
+Guinea-Bissau,2017,0.08
+Guinea-Bissau,2018,0.08
+Guinea-Bissau,2019,0.08
+Guinea-Bissau,2020,0.08
+Guinea-Bissau,2021,0.08
+Guinea-Bissau,2022,0.08
+Kenya,2000,4.31
+Kenya,2001,4.81
+Kenya,2002,5.15
+Kenya,2003,5.48
+Kenya,2004,6.16
+Kenya,2005,6.7
+Kenya,2006,7.51
+Kenya,2007,6.67
+Kenya,2008,6.15
+Kenya,2009,6.55
+Kenya,2010,7.16
+Kenya,2011,7.83
+Kenya,2012,8.17
+Kenya,2013,8.08
+Kenya,2014,9.2
+Kenya,2015,9.81
+Kenya,2016,9.68
+Kenya,2017,10.83
+Kenya,2018,11.3
+Kenya,2019,11.56
+Kenya,2020,11.68
+Kenya,2021,12.38
+Kenya,2022,12.96
+Kenya,2023,12.79
+Kenya,2024,12.85
+Liberia,2000,0.2
+Liberia,2001,0.2
+Liberia,2002,0.2
+Liberia,2003,0.2
+Liberia,2004,0.2
+Liberia,2005,0.2
+Liberia,2006,0.2
+Liberia,2007,0.25
+Liberia,2008,0.25
+Liberia,2009,0.25
+Liberia,2010,0.25
+Liberia,2011,0.3
+Liberia,2012,0.3
+Liberia,2013,0.3
+Liberia,2014,0.3
+Liberia,2015,0.31
+Liberia,2016,0.3
+Liberia,2017,0.35
+Liberia,2018,0.41
+Liberia,2019,0.42
+Liberia,2020,0.45
+Liberia,2021,0.38
+Liberia,2022,0.39
+Liberia,2023,0.39
+Libya,2000,15.5
+Libya,2001,16.11
+Libya,2002,17.53
+Libya,2003,18.95
+Libya,2004,20.2
+Libya,2005,22.32
+Libya,2006,24.75
+Libya,2007,26.23
+Libya,2008,28.67
+Libya,2009,30.38
+Libya,2010,32.56
+Libya,2011,26.01
+Libya,2012,34.29
+Libya,2013,37.93
+Libya,2014,37.73
+Libya,2015,37.51
+Libya,2016,31.42
+Libya,2017,33.28
+Libya,2018,34.18
+Libya,2019,34.63
+Libya,2020,29.5
+Libya,2021,34.79
+Libya,2022,35.11
+Libya,2023,35.11
+Lower-middle-income countries,1985,658.7653
+Lower-middle-income countries,1986,689.2409
+Lower-middle-income countries,1987,734.6982
+Lower-middle-income countries,1988,779.0615
+Lower-middle-income countries,1989,826.14984
+Lower-middle-income countries,1990,860.1371
+Lower-middle-income countries,1991,882.67175
+Lower-middle-income countries,1992,882.34204
+Lower-middle-income countries,1993,899.41595
+Lower-middle-income countries,1994,914.4367
+Lower-middle-income countries,1995,962.9902
+Lower-middle-income countries,1996,985.3304
+Lower-middle-income countries,1997,1020.47845
+Lower-middle-income countries,1998,1071.3318
+Lower-middle-income countries,1999,1129.3488
+Lower-middle-income countries,2000,1007.14
+Lower-middle-income countries,2001,1050.31
+Lower-middle-income countries,2002,1103.72
+Lower-middle-income countries,2003,1161
+Lower-middle-income countries,2004,1256.21
+Lower-middle-income countries,2005,1292.62
+Lower-middle-income countries,2006,1363.3
+Lower-middle-income countries,2007,1433.96
+Lower-middle-income countries,2008,1487.33
+Lower-middle-income countries,2009,1564.67
+Lower-middle-income countries,2010,1681.0599
+Lower-middle-income countries,2011,1816.89
+Lower-middle-income countries,2012,1929.7999
+Lower-middle-income countries,2013,2025.21
+Lower-middle-income countries,2014,2188.49
+Lower-middle-income countries,2015,2308.13
+Lower-middle-income countries,2016,2462.74
+Lower-middle-income countries,2017,2590.28
+Lower-middle-income countries,2018,2763.84
+Lower-middle-income countries,2019,2858.82
+Lower-middle-income countries,2020,2843.66
+Lower-middle-income countries,2021,3035.23
+Lower-middle-income countries,2022,3230.11
+Lower-middle-income countries,2023,3348.66
+Madagascar,2000,0.86
+Madagascar,2001,0.88
+Madagascar,2002,0.86
+Madagascar,2003,0.96
+Madagascar,2004,1.05
+Madagascar,2005,1.06
+Madagascar,2006,1.07
+Madagascar,2007,1.12
+Madagascar,2008,1.18
+Madagascar,2009,1.19
+Madagascar,2010,1.3
+Madagascar,2011,1.47
+Madagascar,2012,1.56
+Madagascar,2013,1.65
+Madagascar,2014,1.72
+Madagascar,2015,1.79
+Madagascar,2016,1.9
+Madagascar,2017,1.98
+Madagascar,2018,2.38
+Madagascar,2019,2.47
+Madagascar,2020,2.16
+Madagascar,2021,2.53
+Madagascar,2022,2.64
+Malawi,2000,1.21
+Malawi,2001,1.22
+Malawi,2002,1.28
+Malawi,2003,1.31
+Malawi,2004,1.47
+Malawi,2005,1.53
+Malawi,2006,1.57
+Malawi,2007,1.58
+Malawi,2008,1.7
+Malawi,2009,1.67
+Malawi,2010,1.92
+Malawi,2011,1.97
+Malawi,2012,2.05
+Malawi,2013,2.05
+Malawi,2014,2.17
+Malawi,2015,2.17
+Malawi,2016,2.15
+Malawi,2017,1.91
+Malawi,2018,1.81
+Malawi,2019,1.8
+Malawi,2020,1.75
+Malawi,2021,1.83
+Malawi,2022,1.83
+Mali,2000,1.06
+Mali,2001,1.07
+Mali,2002,1.11
+Mali,2003,1.11
+Mali,2004,1.26
+Mali,2005,1.49
+Mali,2006,1.57
+Mali,2007,1.58
+Mali,2008,1.81
+Mali,2009,1.56
+Mali,2010,2.36
+Mali,2011,2.16
+Mali,2012,2.31
+Mali,2013,2.2
+Mali,2014,2.51
+Mali,2015,2.51
+Mali,2016,3.02
+Mali,2017,3.44
+Mali,2018,3.61
+Mali,2019,3.81
+Mali,2020,3.94
+Mali,2021,3.94
+Mali,2022,4.34
+Mali,2023,4.36
+Mauritania,2000,0.42
+Mauritania,2001,0.47
+Mauritania,2002,0.53
+Mauritania,2003,0.5
+Mauritania,2004,0.54
+Mauritania,2005,0.53
+Mauritania,2006,0.62
+Mauritania,2007,0.64
+Mauritania,2008,0.72
+Mauritania,2009,0.77
+Mauritania,2010,0.85
+Mauritania,2011,0.87
+Mauritania,2012,0.96
+Mauritania,2013,0.98
+Mauritania,2014,1.03
+Mauritania,2015,1.16
+Mauritania,2016,1.16
+Mauritania,2017,1.35
+Mauritania,2018,1.46
+Mauritania,2019,1.57
+Mauritania,2020,1.63
+Mauritania,2021,1.58
+Mauritania,2022,1.64
+Morocco,1985,7.345
+Morocco,1986,7.764
+Morocco,1987,8.001
+Morocco,1988,8.984
+Morocco,1989,9.024
+Morocco,1990,9.628
+Morocco,1991,9.205
+Morocco,1992,9.719
+Morocco,1993,9.91
+Morocco,1994,11.47
+Morocco,1995,12.092
+Morocco,1996,12.538
+Morocco,1997,13.593
+Morocco,1998,12.968
+Morocco,1999,12.895
+Morocco,2000,13.7
+Morocco,2001,15.6
+Morocco,2002,15.1
+Morocco,2003,16.34
+Morocco,2004,17.47
+Morocco,2005,19.26
+Morocco,2006,19.87
+Morocco,2007,19.69
+Morocco,2008,20.35
+Morocco,2009,20.93
+Morocco,2010,22.85
+Morocco,2011,24.36
+Morocco,2012,26.51
+Morocco,2013,26.94
+Morocco,2014,28.08
+Morocco,2015,29.91
+Morocco,2016,30.87
+Morocco,2017,31.94
+Morocco,2018,34.56
+Morocco,2019,40.38
+Morocco,2020,38.8
+Morocco,2021,41.3
+Morocco,2022,41.41
+Morocco,2023,42.46
+Morocco,2024,43.85
+Mozambique,2000,9.57
+Mozambique,2001,11.76
+Mozambique,2002,12.58
+Mozambique,2003,10.79
+Mozambique,2004,11.6
+Mozambique,2005,13.15
+Mozambique,2006,14.59
+Mozambique,2007,15.91
+Mozambique,2008,14.97
+Mozambique,2009,16.79
+Mozambique,2010,16.67
+Mozambique,2011,16.59
+Mozambique,2012,14.97
+Mozambique,2013,14.87
+Mozambique,2014,16.4
+Mozambique,2015,18.38
+Mozambique,2016,18.86
+Mozambique,2017,17.64
+Mozambique,2018,17.14
+Mozambique,2019,18.99
+Mozambique,2020,19.02
+Mozambique,2021,18.86
+Mozambique,2022,19.56
+Mozambique,2023,19.56
+Namibia,2000,1.44
+Namibia,2001,1.21
+Namibia,2002,1.43
+Namibia,2003,1.43
+Namibia,2004,1.38
+Namibia,2005,1.69
+Namibia,2006,1.61
+Namibia,2007,1.57
+Namibia,2008,1.57
+Namibia,2009,1.5
+Namibia,2010,1.31
+Namibia,2011,1.45
+Namibia,2012,1.67
+Namibia,2013,1.35
+Namibia,2014,1.53
+Namibia,2015,1.58
+Namibia,2016,1.48
+Namibia,2017,1.77
+Namibia,2018,1.41
+Namibia,2019,1.38
+Namibia,2020,2
+Namibia,2021,1.51
+Namibia,2022,1.32
+Namibia,2023,1.89
+Niger,2000,0.21
+Niger,2001,0.18
+Niger,2002,0.19
+Niger,2003,0.2
+Niger,2004,0.2
+Niger,2005,0.23
+Niger,2006,0.22
+Niger,2007,0.22
+Niger,2008,0.22
+Niger,2009,0.26
+Niger,2010,0.29
+Niger,2011,0.34
+Niger,2012,0.39
+Niger,2013,0.44
+Niger,2014,0.45
+Niger,2015,0.54
+Niger,2016,0.7
+Niger,2017,0.56
+Niger,2018,0.53
+Niger,2019,0.67
+Niger,2020,0.67
+Niger,2021,0.71
+Niger,2022,0.79
+Niger,2023,0.8
+Nigeria,2000,14.74
+Nigeria,2001,15.47
+Nigeria,2002,21.55
+Nigeria,2003,20.2
+Nigeria,2004,24.29
+Nigeria,2005,23.55
+Nigeria,2006,23.12
+Nigeria,2007,22.99
+Nigeria,2008,21.12
+Nigeria,2009,19.79
+Nigeria,2010,26.13
+Nigeria,2011,27.04
+Nigeria,2012,28.74
+Nigeria,2013,28.93
+Nigeria,2014,32.28
+Nigeria,2015,33.17
+Nigeria,2016,36.54
+Nigeria,2017,32.24
+Nigeria,2018,36.71
+Nigeria,2019,36.46
+Nigeria,2020,38
+Nigeria,2021,39.2
+Nigeria,2022,38
+Nigeria,2023,42.51
+Nigeria,2024,40.13
+Rwanda,2000,0.16
+Rwanda,2001,0.15
+Rwanda,2002,0.17
+Rwanda,2003,0.18
+Rwanda,2004,0.14
+Rwanda,2005,0.19
+Rwanda,2006,0.27
+Rwanda,2007,0.25
+Rwanda,2008,0.29
+Rwanda,2009,0.31
+Rwanda,2010,0.28
+Rwanda,2011,0.35
+Rwanda,2012,0.39
+Rwanda,2013,0.37
+Rwanda,2014,0.41
+Rwanda,2015,0.51
+Rwanda,2016,0.64
+Rwanda,2017,0.65
+Rwanda,2018,0.82
+Rwanda,2019,0.85
+Rwanda,2020,0.89
+Rwanda,2021,1
+Rwanda,2022,1.04
+Rwanda,2023,1.06
+Senegal,2000,1.49
+Senegal,2001,1.79
+Senegal,2002,2.08
+Senegal,2003,2.33
+Senegal,2004,2.39
+Senegal,2005,2.65
+Senegal,2006,2.64
+Senegal,2007,2.8
+Senegal,2008,2.96
+Senegal,2009,3.05
+Senegal,2010,3.23
+Senegal,2011,3.29
+Senegal,2012,3.62
+Senegal,2013,3.81
+Senegal,2014,4.18
+Senegal,2015,4.44
+Senegal,2016,4.78
+Senegal,2017,4.72
+Senegal,2018,4.94
+Senegal,2019,5.82
+Senegal,2020,6.06
+Senegal,2021,6.66
+Senegal,2022,7.5
+Senegal,2023,8.05
+Sierra Leone,2000,0.09
+Sierra Leone,2001,0.13
+Sierra Leone,2002,0.16
+Sierra Leone,2003,0.15
+Sierra Leone,2004,0.12
+Sierra Leone,2005,0.08
+Sierra Leone,2006,0.05
+Sierra Leone,2007,0.06
+Sierra Leone,2008,0.06
+Sierra Leone,2009,0.06
+Sierra Leone,2010,0.14
+Sierra Leone,2011,0.17
+Sierra Leone,2012,0.18
+Sierra Leone,2013,0.16
+Sierra Leone,2014,0.15
+Sierra Leone,2015,0.16
+Sierra Leone,2016,0.21
+Sierra Leone,2017,0.23
+Sierra Leone,2018,0.27
+Sierra Leone,2019,0.2
+Sierra Leone,2020,0.2
+Sierra Leone,2021,0.2
+Sierra Leone,2022,0.2
+Sierra Leone,2023,0.21
+South Africa,1985,143.491
+South Africa,1986,148.241
+South Africa,1987,152.373
+South Africa,1988,158.141
+South Africa,1989,163.359
+South Africa,1990,167.226
+South Africa,1991,168.316
+South Africa,1992,168.09
+South Africa,1993,174.706
+South Africa,1994,181.69
+South Africa,1995,186.655
+South Africa,1996,200.092
+South Africa,1997,210.362
+South Africa,1998,205.374
+South Africa,1999,203.012
+South Africa,2000,210.67
+South Africa,2001,210.1
+South Africa,2002,220.57
+South Africa,2003,234.23
+South Africa,2004,244.61
+South Africa,2005,244.93
+South Africa,2006,253.81
+South Africa,2007,263.49
+South Africa,2008,258.29
+South Africa,2009,249.56
+South Africa,2010,259.6
+South Africa,2011,262.54
+South Africa,2012,257.93
+South Africa,2013,256.14
+South Africa,2014,254.76
+South Africa,2015,250.4
+South Africa,2016,253.07
+South Africa,2017,255.44
+South Africa,2018,256.33
+South Africa,2019,252.57
+South Africa,2020,239.46
+South Africa,2021,244.31
+South Africa,2022,238.72
+South Africa,2023,233.58
+South Africa,2024,244.81
+Tanzania,2000,2.5
+Tanzania,2001,2.83
+Tanzania,2002,2.89
+Tanzania,2003,2.71
+Tanzania,2004,2.61
+Tanzania,2005,3.66
+Tanzania,2006,3.51
+Tanzania,2007,4.24
+Tanzania,2008,4.45
+Tanzania,2009,4.8
+Tanzania,2010,5.33
+Tanzania,2011,5.17
+Tanzania,2012,5.67
+Tanzania,2013,5.99
+Tanzania,2014,6.26
+Tanzania,2015,6.53
+Tanzania,2016,6.82
+Tanzania,2017,7.07
+Tanzania,2018,7.31
+Tanzania,2019,7.77
+Tanzania,2020,7.83
+Tanzania,2021,8.65
+Tanzania,2022,9.62
+Tanzania,2023,10.98
+Tunisia,2000,10.59
+Tunisia,2001,11.38
+Tunisia,2002,11.84
+Tunisia,2003,11.28
+Tunisia,2004,11.93
+Tunisia,2005,12.66
+Tunisia,2006,13.07
+Tunisia,2007,13.74
+Tunisia,2008,14.37
+Tunisia,2009,15.26
+Tunisia,2010,15.89
+Tunisia,2011,16.3
+Tunisia,2012,17.84
+Tunisia,2013,18.14
+Tunisia,2014,18.97
+Tunisia,2015,19.48
+Tunisia,2016,19.63
+Tunisia,2017,20.58
+Tunisia,2018,20.92
+Tunisia,2019,22.02
+Tunisia,2020,21.38
+Tunisia,2021,21.9
+Tunisia,2022,21.41
+Tunisia,2023,21.29
+Tunisia,2024,20.83
+World,1985,9886.064
+World,1986,10180.79
+World,1987,10670.628
+World,1988,11140.627
+World,1989,11657.959
+World,1990,11961.343
+World,1991,12222.45
+World,1992,12336.336
+World,1993,12599.859
+World,1994,12923.506
+World,1995,13381.801
+World,1996,13797.09
+World,1997,14128.537
+World,1998,14510.952
+World,1999,14926.2
+World,2000,15278.69
+World,2001,15500.42
+World,2002,16049.61
+World,2003,16627.73
+World,2004,17414.66
+World,2005,18133.84
+World,2006,18839.01
+World,2007,19713.95
+World,2008,20102.47
+World,2009,19944.52
+World,2010,21264.68
+World,2011,21973.59
+World,2012,22519.12
+World,2013,23160.16
+World,2014,23750.64
+World,2015,24014.71
+World,2016,24703.16
+World,2017,25451.89
+World,2018,26472.73
+World,2019,26851.83
+World,2020,26742.91
+World,2021,28271.26
+World,2022,28926.93
+World,2023,29684.94
+World,2024,30853.34
+Zambia,2000,7.71
+Zambia,2001,7.94
+Zambia,2002,8.16
+Zambia,2003,8.32
+Zambia,2004,8.51
+Zambia,2005,8.94
+Zambia,2006,9.68
+Zambia,2007,9.64
+Zambia,2008,9.53
+Zambia,2009,9.89
+Zambia,2010,10.45
+Zambia,2011,11.49
+Zambia,2012,12.37
+Zambia,2013,13.3
+Zambia,2014,14.52
+Zambia,2015,13.51
+Zambia,2016,11.77
+Zambia,2017,14.56
+Zambia,2018,16.28
+Zambia,2019,14.79
+Zambia,2020,15.23
+Zambia,2021,17.72
+Zambia,2022,19.47
+Zambia,2023,19.46
+Zimbabwe,2000,6.99
+Zimbabwe,2001,7.9
+Zimbabwe,2002,8.58
+Zimbabwe,2003,8.79
+Zimbabwe,2004,9.72
+Zimbabwe,2005,9.36
+Zimbabwe,2006,7.98
+Zimbabwe,2007,7.6
+Zimbabwe,2008,7.63
+Zimbabwe,2009,7.29
+Zimbabwe,2010,8.64
+Zimbabwe,2011,9.17
+Zimbabwe,2012,9.15
+Zimbabwe,2013,9.54
+Zimbabwe,2014,9.86
+Zimbabwe,2015,9.59
+Zimbabwe,2016,7.17
+Zimbabwe,2017,7.55
+Zimbabwe,2018,9.43
+Zimbabwe,2019,8.48
+Zimbabwe,2020,6.71
+Zimbabwe,2021,8.57
+Zimbabwe,2022,8.94
+Zimbabwe,2023,8.31
